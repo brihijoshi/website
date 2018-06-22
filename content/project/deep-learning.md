@@ -24,7 +24,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+caption = "Image taken from: https://dhs.stanford.edu/gephi-workshop/twitter-network-gallery/"
 
 +++
 

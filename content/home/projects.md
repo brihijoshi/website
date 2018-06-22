@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 5
 
 # Content.
 # Display content from the following folder.
@@ -35,6 +35,14 @@ filter_default = 0
 [[filter]]
   name = "Deep Learning"
   tag = ".deep-learning"
+
+[[filter]]
+  name = "Machine Learning"
+  tag = ".machine-learning"
+
+[[filter]]
+  name = "OSNs"
+  tag = ".osns"
 
 [[filter]]
   name = "Other"
