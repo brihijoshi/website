@@ -36,8 +36,8 @@ selected = true
 projects = ["example-external-project"]
 # tags = ["OSNs", "machine learning", "Data Science"]
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = ""
+url_preprint = "https://arxiv.org/abs/1806.08979"
 url_code = "https://github.com/LCS2-IIITD/collusive-retweeters-ASONAM-2018"
 url_dataset = "https://github.com/LCS2-IIITD/collusive-retweeters-ASONAM-2018/tree/master/data"
 url_project = ""
