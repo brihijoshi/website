@@ -3,14 +3,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://justachetan.github.io/"
+baseurl = "https://brihijoshi.github.io/"
 
 # Title of your site
-title = "Aditya Chetan @ IIITD"
+title = "B R I H I"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Aditya Chetan 2018"
+copyright = "&copy; Brihi Joshi 2018"
 
 theme = "academic"
 enableEmoji = true
